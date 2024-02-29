@@ -1,0 +1,21 @@
+{
+  "name": "9",
+  "version": "1.0.0",
+  "description": "Aula de programação web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.3",
+    "express": "^4.18.3",
+    "express-handlebars": "^7.1.2",
+    "mysql2": "^3.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
